@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+logs/*
+!logs/.gitkeep
+.env
+work/
+formal_member_roster.json
+config.json
+.env.*
+!.env.example
+*.pyc

@@ -1,0 +1,16 @@
+{
+  "test_group": "測試群組",
+  "test_senders": ["測試成員A", "測試成員B"],
+  "test_message_prefix": "測",
+  "skip_recall_notices": false,
+  "ignored_senders_by_group": {},
+  "source_group": "",
+  "target_group": "",
+  "polling_interval": 2,
+  "telegram": {
+    "bot_username": "",
+    "bot_id": 0,
+    "chat_id": 0,
+    "credential_target": ""
+  }
+}
